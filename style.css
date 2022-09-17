@@ -1,4 +1,21 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+/*styling the body from the html*/
+body {
+    background-color:black;
+    font-family: arial;
+    color:white;
+}
+/* styling the heading of the interest calculator*/
+h1{
+    color:grey;
+    font-family:verdana;
+}
+/*styling the body of the interst calculator, 
+background, color, width, padding, borders and align*/
+.maindiv {
+    background-color:white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    align-items :center;
+}
